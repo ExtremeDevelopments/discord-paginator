@@ -1,0 +1,25 @@
+{
+  "name": "discord-paginator",
+  "version": "1.0.0",
+  "description": "Paginator to work with the discord.js library with embeds.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "author": "Extreme",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "discord",
+    "embed",
+    "pages",
+    "discord.js"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
